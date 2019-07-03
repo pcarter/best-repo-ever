@@ -1,2 +1,2 @@
 # best-repo-ever
-Hello, how are you?
+Hi, how are you?
